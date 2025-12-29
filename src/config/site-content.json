@@ -32,35 +32,39 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "5eba9a8b4094e0a5",
+			"url": "/images/background/5eba9a8b4094e0a5.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "5eba9a8b4094e0a5",
 	"socialButtons": [
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Mrwng2",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "1582033767@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1766995592529",
+			"type": "zhihu",
+			"value": "https://www.zhihu.com/people/xiu-luo-42-8",
+			"label": "知乎",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
