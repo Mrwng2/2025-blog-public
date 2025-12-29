@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "white",
-		"description": "white的个人博客，记录前端开发、探索、笔记。 更新代码仓库。",
+		"description": "white的个人博客，记录嵌入式开发、探索、笔记。 更新代码仓库。",
 		"username": "white"
 	},
 	"theme": {
@@ -67,14 +67,14 @@
 			"order": 3
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 22,
 	"hatFlipped": false,
-	"enableChristmas": true,
+	"enableChristmas": false,
 	"beian": {
 		"text": "",
 		"link": ""
