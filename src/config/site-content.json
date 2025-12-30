@@ -65,6 +65,13 @@
 			"value": "https://www.zhihu.com/people/xiu-luo-42-8",
 			"label": "知乎",
 			"order": 3
+		},
+		{
+			"id": "button-1767056427856",
+			"type": "link",
+			"value": "https://www.limestart.cn/",
+			"label": "青柠起始页",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
