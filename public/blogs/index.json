@@ -1,5 +1,14 @@
 [
   {
+    "slug": "claude code",
+    "title": "CLAUDE使用示例",
+    "tags": [],
+    "date": "2026-08-24T10:07",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "交叉编译器",
     "title": "从零搭建-x64-WSL2-ARM64-Ubuntu-22.04-交叉编译环境",
     "tags": [],
