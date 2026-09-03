@@ -1,0 +1,8 @@
+{
+  "title": "RDK X5 40pin GPIO 管理模块（libgpiod 方案）",
+  "tags": [],
+  "date": "2026-09-03T11:46",
+  "summary": "rdkx5的wiringpi替代方案",
+  "hidden": false,
+  "category": "代码实现"
+}
